@@ -1,0 +1,58 @@
+venv/
+*.pyc
+
+.DS_Store
+
+.vscode/
+
+
+# Python
+# ------------------------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+.installed.cfg
+*.whl
+sdist/
+
+# Environments
+venv/
+env/
+.venv/
+
+# Testing
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy/
+
+# PyInstaller
+# For a project-specific PyInstaller installation
+*.spec
+
+# Jupyter Notebook (Optional)
+.ipynb_checkpoints
+
+# IDEs and Tools
+# ------------------------------------
+
+# Visual Studio Code
+.vscode/
+
+# OS/System Files
+# ------------------------------------
+.DS_Store # Mac/Darwin
+Thumbs.db # Windows
